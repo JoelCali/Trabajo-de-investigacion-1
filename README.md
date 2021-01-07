@@ -59,6 +59,10 @@
     ejercicio 27
    ![image](https://user-images.githubusercontent.com/76132461/103841850-8a2aa600-5062-11eb-99d5-110a18b4e210.png)
    
+   ejercicio 29
+   ![image](https://user-images.githubusercontent.com/76132461/103861549-a0009100-508b-11eb-9359-2b9a0d74a8da.png)
+
+   
     ejercicio 31
    ![image](https://user-images.githubusercontent.com/76132461/103849591-1d6bd780-5073-11eb-8220-7a92893fe13d.png)
    
