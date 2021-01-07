@@ -41,12 +41,13 @@
     ejercicio 11
    ![image](https://user-images.githubusercontent.com/76132461/103849476-bc440400-5072-11eb-80bb-34dc394da5ff.png)
    
+      ejercicio 13 
+   ![image](https://user-images.githubusercontent.com/76134214/103864918-6894e300-5091-11eb-94fe-07061d47a475.png)
+   
     ejercicio 15
    ![image](https://user-images.githubusercontent.com/76132461/103841637-083a7d00-5062-11eb-85ac-e114c6c0e54b.png)
    
-    ejercicio 13 
-   ![image](https://user-images.githubusercontent.com/76134214/103864918-6894e300-5091-11eb-94fe-07061d47a475.png)
-   
+ 
     ejercicio 17
    ![image](https://user-images.githubusercontent.com/76134214/103864829-456a3380-5091-11eb-9181-8e3b3f097365.png)
    
@@ -70,6 +71,8 @@
 
     ejercicio 31
    ![image](https://user-images.githubusercontent.com/76132461/103849591-1d6bd780-5073-11eb-8220-7a92893fe13d.png)
+   
+   ejercicio 33
    
     ejercicio 35
    ![image](https://user-images.githubusercontent.com/76132461/103841945-afb7af80-5062-11eb-96d8-b38b74609734.png)
