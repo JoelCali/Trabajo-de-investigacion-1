@@ -107,7 +107,9 @@ En el segundo circuito se comprueba el teorema de Thevenin, demostrando de esa m
  
  - Concluimos que al implementar el teorema Norton en circuitos mixtos se debe encontrar una única corriente denominada “IN” y simplificar todas las resistencias en nuestro circuito utilizando leyes de Kirchhoff y divisores de voltaje, dando como resultado un solo resistor denominado “RN”.
 
- - En conclusión, al aplicar el Teorema de Superposición se tomo en cuenta que el numero de fuentes que existen en el problema será directamente proporcional al numero de circuitos que se derivaran para el debido proceso. Estas fuentes pueden ser de voltaje como de intensidad de corriente
+ - En conclusión, al aplicar el Teorema de Superposición se tomo en cuenta que el numero de fuentes que existen en el problema será directamente proporcional al numero de circuitos que se derivaran para el debido proceso. Estas fuentes pueden ser de voltaje como de intensidad de corriente.
+ 
+ - Mediante la lectura y la practica de los teoremas de conversiones y circuitos, se pudo observar que para simplificaciones, se basa en los teoremas de superposición y en conversiones de fuentes, las cuales fueron las bases para los teoremas de Norton y Thevenin por lo cual es importante practicar con estos ya que con sus derivaciones nos podemos especializar en los cálculos de circuitos.
 
  
  8. Bibliografiía
