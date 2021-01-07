@@ -73,7 +73,7 @@ En el primer circuito se comprueba el teorema de conversión de fuente, demostra
 
 En el segundo circuito se comprueba el teorema de Thevenin, demostrando de esa manera que la corriente que circula por un circuito serie-paralelo, es casi exacta cuando se simula, en este caso no marco ningún margen de error debido a que la corriente resultante es un número entero, para este circuito se necesitaron de 5 resistencias con sus respectivos valores y colocando el amperímetro en la resistencia en la que se desea medir.
 
-8. Aportaciones
+6. Aportaciones
 
    Ejercicio 1.
    
