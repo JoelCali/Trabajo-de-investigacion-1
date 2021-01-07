@@ -44,6 +44,12 @@
     ejercicio 15
    ![image](https://user-images.githubusercontent.com/76132461/103841637-083a7d00-5062-11eb-85ac-e114c6c0e54b.png)
    
+    ejercicio 13 
+   ![image](https://user-images.githubusercontent.com/76134214/103864918-6894e300-5091-11eb-94fe-07061d47a475.png)
+   
+    ejercicio 17
+   ![image](https://user-images.githubusercontent.com/76134214/103864829-456a3380-5091-11eb-9181-8e3b3f097365.png)
+   
     ejercicio 19 
    ![image](https://user-images.githubusercontent.com/76132461/103841724-4172ed00-5062-11eb-89f2-4eee8240b100.png)
    
@@ -53,21 +59,21 @@
     ejercicio 23
    ![image](https://user-images.githubusercontent.com/76132461/103841765-5b143480-5062-11eb-8251-9d0884e601b5.png)
    
-   ejercicio 25
+    ejercicio 25
    ![image](https://user-images.githubusercontent.com/76132461/103857865-4b5a1780-5085-11eb-9d9e-e6bbfd1348d1.png)
    
     ejercicio 27
    ![image](https://user-images.githubusercontent.com/76132461/103841850-8a2aa600-5062-11eb-99d5-110a18b4e210.png)
    
-   ejercicio 29
+    ejercicio 29
    ![image](https://user-images.githubusercontent.com/76132461/103861549-a0009100-508b-11eb-9359-2b9a0d74a8da.png)
 
-   
     ejercicio 31
    ![image](https://user-images.githubusercontent.com/76132461/103849591-1d6bd780-5073-11eb-8220-7a92893fe13d.png)
    
-   ejercicio 35
+    ejercicio 35
    ![image](https://user-images.githubusercontent.com/76132461/103841945-afb7af80-5062-11eb-96d8-b38b74609734.png)
+   
 4. Lista de Componentes
 
 ![image](https://user-images.githubusercontent.com/76134214/103854504-9a507e80-507e-11eb-9e3f-b8e48caab0c6.png)
