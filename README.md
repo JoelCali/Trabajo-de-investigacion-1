@@ -53,6 +53,9 @@
     ejercicio 23
    ![image](https://user-images.githubusercontent.com/76132461/103841765-5b143480-5062-11eb-8251-9d0884e601b5.png)
    
+   ejercicio 25
+   ![image](https://user-images.githubusercontent.com/76132461/103857865-4b5a1780-5085-11eb-9d9e-e6bbfd1348d1.png)
+   
     ejercicio 27
    ![image](https://user-images.githubusercontent.com/76132461/103841850-8a2aa600-5062-11eb-99d5-110a18b4e210.png)
    
@@ -86,6 +89,12 @@ En el segundo circuito se comprueba el teorema de Thevenin, demostrando de esa m
  ![image](https://user-images.githubusercontent.com/76134214/103856075-0da7bf80-5082-11eb-9cb3-df54a0a567c1.png)
  
  Queda demostrado el teorema de Thevenin, los resultados de la simulación terminaron siendo exactos a los cálculos, la intensidad es de 0.1mA o lo que es igual a 100uA. El amperímetro está conectado en serie con la resistencia a la cual se quiere medir el valor.
+ 
+ 7. Conclusiones
+ 
+ 8. Bibliografiía
+ 
+ Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
    
    
    
